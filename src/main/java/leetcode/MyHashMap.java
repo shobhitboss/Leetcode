@@ -1,7 +1,7 @@
 package leetcode;
 
 public class MyHashMap {
-    int[] arr = new int[1000001];
+    int[] arr = new int[1000000];
 
     /**
      * Initialize your data structure here.
