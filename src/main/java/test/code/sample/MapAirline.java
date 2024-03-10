@@ -20,8 +20,7 @@ public class MapAirline {
                 base = frs;
                 temp = frs;
                 output.put(base, null);
-            } else
-                base = frs;
+            } else base = frs;
             if (locations.containsKey(locations.get(frs))) {
                 next = locations.get(frs);
             } else {
