@@ -14,6 +14,9 @@ public class DistinctObjectInList {
         students.add(new Student("Boby", "B", 6, 13));
         students.add(new Student("Charlie", "A", 5, 12));
 
+        List<Student> allStudents = students.stream().toList();
+        System.out.println(allStudents);
+
         for (Student student : students) {
             System.out.println(student.toString());
         }
