@@ -1,0 +1,147 @@
+{
+  "product_combination": {
+    "LOGISTICS_FINANCE_INVOICE_DISCOUNTING_IN_TRANSIT": {
+      "productCategory": "LOGISTICS_FINANCE",
+      "productType": "INVOICE_DISCOUNTING",
+      "financeType": "IN_TRANSIT",
+      "documentName": "FACILITY_AGREEMENT:INVOICE_DISCOUNTING"
+    },
+    "LOGISTICS_FINANCE_INVOICE_DISCOUNTING_DEFERRED": {
+      "productCategory": "LOGISTICS_FINANCE",
+      "productType": "INVOICE_DISCOUNTING",
+      "financeType": "DEFERRED",
+      "documentName": "FACILITY_AGREEMENT:INVOICE_DISCOUNTING"
+    },
+    "LOGISTICS_FINANCE_INVOICE_FACTORING_IN_TRANSIT": {
+      "productCategory": "LOGISTICS_FINANCE",
+      "productType": "INVOICE_FACTORING",
+      "financeType": "IN_TRANSIT",
+      "documentName": "FACILITY_AGREEMENT:INVOICE_FACTORING"
+    },
+    "LOGISTICS_FINANCE_INVOICE_FACTORING_DEFERRED": {
+      "productCategory": "LOGISTICS_FINANCE",
+      "productType": "INVOICE_FACTORING",
+      "financeType": "DEFERRED",
+      "documentName": "FACILITY_AGREEMENT:INVOICE_FACTORING"
+    },
+    "LOGISTICS_FINANCE_INVOICE_FACTORING_WO_RECOURSE_IN_TRANSIT": {
+      "productCategory": "LOGISTICS_FINANCE",
+      "productType": "INVOICE_FACTORING_WO_RECOURSE",
+      "financeType": "IN_TRANSIT",
+      "documentName": "FACILITY_AGREEMENT:INVOICE_FACTORING_WO_RECOURSE"
+    },
+    "LOGISTICS_FINANCE_INVOICE_FACTORING_WO_RECOURSE_DEFERRED": {
+      "productCategory": "LOGISTICS_FINANCE",
+      "productType": "INVOICE_FACTORING_WO_RECOURSE",
+      "financeType": "DEFERRED",
+      "documentName": "FACILITY_AGREEMENT:INVOICE_FACTORING_WO_RECOURSE"
+    },
+    "LOGISTICS_FINANCE_REVERSE_FACTORING_IN_TRANSIT": {
+      "productCategory": "LOGISTICS_FINANCE",
+      "productType": "REVERSE_FACTORING",
+      "financeType": "IN_TRANSIT",
+      "documentName": "FACILITY_AGREEMENT:REVERSE_FACTORING"
+    },
+    "LOGISTICS_FINANCE_REVERSE_FACTORING_DEFERRED": {
+      "productCategory": "LOGISTICS_FINANCE",
+      "productType": "REVERSE_FACTORING",
+      "financeType": "DEFERRED",
+      "documentName": "FACILITY_AGREEMENT:REVERSE_FACTORING"
+    },
+    "LOGISTICS_FINANCE_TRADE_PAYABLES_FINANCING_IN_TRANSIT": {
+      "productCategory": "LOGISTICS_FINANCE",
+      "productType": "TRADE_PAYABLES_FINANCING",
+      "financeType": "IN_TRANSIT",
+      "documentName": "FACILITY_AGREEMENT:REVERSE_FACTORING"
+    },
+    "LOGISTICS_FINANCE_TRADE_PAYABLES_FINANCING_DEFERRED": {
+      "productCategory": "LOGISTICS_FINANCE",
+      "productType": "TRADE_PAYABLES_FINANCING",
+      "financeType": "DEFERRED",
+      "documentName": "FACILITY_AGREEMENT:TRADE_PAYABLES_FINANCING"
+    },
+    "TRADE_FINANCE_INVOICE_DISCOUNTING_IN_TRANSIT": {
+      "productCategory": "TRADE_FINANCE",
+      "productType": "INVOICE_DISCOUNTING",
+      "financeType": "IN_TRANSIT",
+      "documentName": "FACILITY_AGREEMENT:INVOICE_DISCOUNTING"
+    },
+    "TRADE_FINANCE_INVOICE_DISCOUNTING_DEFERRED": {
+      "productCategory": "TRADE_FINANCE",
+      "productType": "INVOICE_DISCOUNTING",
+      "financeType": "DEFERRED",
+      "documentName": "FACILITY_AGREEMENT:INVOICE_DISCOUNTING"
+    },
+    "TRADE_FINANCE_INVOICE_FACTORING_IN_TRANSIT": {
+      "productCategory": "TRADE_FINANCE",
+      "productType": "INVOICE_FACTORING",
+      "financeType": "IN_TRANSIT",
+      "documentName": "FACILITY_AGREEMENT:INVOICE_FACTORING"
+    },
+    "TRADE_FINANCE_INVOICE_FACTORING_DEFERRED": {
+      "productCategory": "TRADE_FINANCE",
+      "productType": "INVOICE_FACTORING",
+      "financeType": "DEFERRED",
+      "documentName": "FACILITY_AGREEMENT:INVOICE_FACTORING"
+    },
+    "TRADE_FINANCE_INVOICE_FACTORING_WO_RECOURSE_IN_TRANSIT": {
+      "productCategory": "TRADE_FINANCE",
+      "productType": "INVOICE_FACTORING_WO_RECOURSE",
+      "financeType": "IN_TRANSIT",
+      "documentName": "FACILITY_AGREEMENT:INVOICE_FACTORING_WO_RECOURSE"
+    },
+    "TRADE_FINANCE_INVOICE_FACTORING_WO_RECOURSE_DEFERRED": {
+      "productCategory": "TRADE_FINANCE",
+      "productType": "INVOICE_FACTORING_WO_RECOURSE",
+      "financeType": "DEFERRED",
+      "documentName": "FACILITY_AGREEMENT:INVOICE_FACTORING_WO_RECOURSE"
+    },
+    "TRADE_FINANCE_REVERSE_FACTORING_IN_TRANSIT": {
+      "productCategory": "TRADE_FINANCE",
+      "productType": "REVERSE_FACTORING",
+      "financeType": "IN_TRANSIT",
+      "documentName": "FACILITY_AGREEMENT:REVERSE_FACTORING"
+    },
+    "TRADE_FINANCE_REVERSE_FACTORING_DEFERRED": {
+      "productCategory": "TRADE_FINANCE",
+      "productType": "REVERSE_FACTORING",
+      "financeType": "DEFERRED",
+      "documentName": "FACILITY_AGREEMENT:REVERSE_FACTORING"
+    },
+    "TRADE_FINANCE_TRADE_PAYABLES_FINANCING_IN_TRANSIT": {
+      "productCategory": "TRADE_FINANCE",
+      "productType": "TRADE_PAYABLES_FINANCING",
+      "financeType": "IN_TRANSIT",
+      "documentName": "FACILITY_AGREEMENT:TRADE_PAYABLES_FINANCING"
+    },
+    "TRADE_FINANCE_TRADE_PAYABLES_FINANCING_DEFERRED": {
+      "productCategory": "TRADE_FINANCE",
+      "productType": "TRADE_PAYABLES_FINANCING",
+      "financeType": "DEFERRED",
+      "documentName": "FACILITY_AGREEMENT:TRADE_PAYABLES_FINANCING"
+    },
+    "TRADE_FINANCE_INVENTORY_FINANCE_BUYER_DEFFERED": {
+      "productCategory": "TRADE_FINANCE",
+      "productType": "INVENTORY_FINANCE_BUYER",
+      "financeType": "DEFERRED",
+      "documentName": "FACILITY_AGREEMENT:INVENTORY_FINANCE_BUYER"
+    },
+    "TRADE_FINANCE_INVENTORY_FINANCE_SELLER_DEFFERED": {
+      "productCategory": "TRADE_FINANCE",
+      "productType": "INVENTORY_FINANCE_SELLER",
+      "financeType": "DEFERRED",
+      "documentName": "FACILITY_AGREEMENT:INVENTORY_FINANCE_SELLER"
+    },
+    "TRADE_FINANCE_REVOLVING_CREDIT_FACILITY_DEFFERED": {
+      "productCategory": "TRADE_FINANCE",
+      "productType": "REVOLVING_CREDIT_FACILITY",
+      "financeType": "DEFERRED",
+      "documentName": "FACILITY_AGREEMENT:REVOLVING_CREDIT_FACILITY"
+    }
+  },
+  "upload_mandatory_document": [
+    "FACILITY_AGREEMENT:MASTER",
+    "FACILITY_AGREEMENT:SECURITY",
+    "FACILITY_AGREEMENT:CORPORATE_GUARANTEE"
+  ]
+}
