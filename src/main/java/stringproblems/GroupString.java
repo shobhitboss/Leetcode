@@ -5,7 +5,10 @@ import java.util.*;
 public class GroupString {
     public static void main(String[] args) {
         List<String> li = new ArrayList<>(Arrays.asList("abc", "bca", "cab", "xyz", "yzx", "cba", "aaaa"));
-        System.out.println(groupString(li));
+//        System.out.println(groupString(li));
+
+        String[] words = {"abba", "baba", "bbaa", "cd", "cd"};
+        System.out.println(removeAnagrams(words));
     }
 
     public static List<List<String>> groupString(List<String> list) {
@@ -35,5 +38,20 @@ public class GroupString {
     public static boolean isStringRotated(String str1, String str2) {
         str1 += str1;
         return str1.contains(str2);
+    }
+
+    public static List<String> removeAnagrams(String[] words) {
+        Set<String> set = new HashSet<>();
+        List<String> result = new ArrayList<>();
+        for (String str : words) {
+            char[] arr = str.toCharArray();
+            Arrays.sort(arr);
+            String a = String.valueOf(arr);
+            if (!set.contains(a)) {
+                result.add(str);
+                set.add(a);
+            }
+        }
+        return result;
     }
 }

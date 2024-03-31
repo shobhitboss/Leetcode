@@ -33,6 +33,6 @@ public class LongestCommonSubsequence {
         System.out.println(longestCommonSubsequence(str1, str2, 0, 0, dp));
 
         int[][] dp2 = new int[str1.length() + 1][str2.length() + 1];
-        System.out.println(longestCommonSubsequenceTabulation(str1, str2, str1.length(), str2.length(), dp));
+        System.out.println(longestCommonSubsequenceTabulation(str1, str2, str1.length(), str2.length(), dp2));
     }
 }
