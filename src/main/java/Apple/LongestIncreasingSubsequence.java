@@ -7,9 +7,10 @@ public class LongestIncreasingSubsequence {
         int[] arr = {1, 3, 9, 6, 7, 8, 6, 7, 8, 9, 8};
         System.out.println(longestIncreasingSubsequence(arr, 0, -1));
 
-        int[][] dp = new int[arr.length][arr.length];
+        int[][] dp = new int[arr.length+1][arr.length];
         System.out.println(longestIncreasingSubsequenceDP(arr, 0, -1, dp));
-
+        for(int[] a : dp)
+            System.out.println(Arrays.toString(a));
     }
 
     public static int longestIncreasingSubsequence(int[] arr, int curr, int prev) {
