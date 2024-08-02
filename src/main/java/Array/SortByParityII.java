@@ -1,5 +1,5 @@
 //	922. Sort Array By Parity II
-package leetcode.Array;
+package Array;
 
 import java.util.Arrays;
 

@@ -1,5 +1,5 @@
 //350. Intersection of Two Arrays II
-package leetcode.Array;
+package Array;
 
 import java.util.Arrays;
 

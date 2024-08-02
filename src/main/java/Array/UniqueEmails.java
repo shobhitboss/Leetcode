@@ -1,5 +1,5 @@
 //929. Unique Email Addresses
-package leetcode.Array;
+package Array;
 
 import java.util.HashSet;
 

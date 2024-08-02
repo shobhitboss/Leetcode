@@ -8,8 +8,11 @@ public class SampleTrie {
 
     public static void main(String[] args) {
         SampleTrie st = new SampleTrie();
-        char[][] board = {{'a', 'b', 'c', 'd'}, {'r', 'a', 'u', 'g'}, {'t', 'g', 'v', 'w'}, {'v', 'r', 'p', 'w'}};
-        String[] arr = {"art", "bag", "cav"};
+        char[][] board = {{'a', 'b', 'c', 'd'},
+                          {'r', 'a', 'u', 'g'},
+                          {'t', 'g', 'v', 'w'},
+                          {'v', 'r', 'p', 'w'}};
+        String[] arr = {"art", "bar", "cug", "dcb", "wwo"};
         System.out.println(st.findWords(board, arr));
     }
 
@@ -62,7 +65,7 @@ public class SampleTrie {
     }
 
     public class Trie {
-        public Trie[] next = new Trie[26];
-        public String word;
+        Trie[] next = new Trie[26];
+        String word;
     }
 }

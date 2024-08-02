@@ -1,5 +1,5 @@
 //1550. Three Consecutive Odds
-package leetcode.Array;
+package Array;
 
 public class ThreeConsecutiveOdds {
 
