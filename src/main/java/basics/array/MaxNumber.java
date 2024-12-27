@@ -6,7 +6,7 @@ import java.util.Map;
 
 public class MaxNumber {
     public static void main(String[] args) {
-        Integer[] arr = {546, 80, 10, 54, 548, 60};
+        Integer[] arr = {546, 80, 10, 51, 548, 60};
         getMaxNumber(arr);
 
         printFibonacciSeries(0, 1, 15);
